@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0QQbzvcEaS8rTuhIkahcoz0brcvvvY1J24GMUjcxW+MoH8JXDrR+J+Ii/KRVuIM+jeQloFkElyGkKFyvuHaBGQ==",
+  "dgSpecHash": "4pIka5Q+p1vmwJVyhhmhLP5+0epO67mklzcwbiS+BJ7RjqxjvbZlYPe/JyEk4bwGo9EFd/Ba0+Nzh7Rync1OBw==",
   "success": true,
-  "projectFilePath": "D:\\UPC\\Ciclo 9\\Link_Project_EF\\CrossLinkLP\\CrossLinkLP\\CrossLinkLP.csproj",
+  "projectFilePath": "D:\\UPC\\Ciclo 9\\Landing\\Cross-Link-Landing-Page\\CrossLinkLP\\CrossLinkLP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diego\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.13\\microsoft.aspnetcore.authorization.6.0.13.nupkg.sha512",
     "C:\\Users\\Diego\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.13\\microsoft.aspnetcore.components.6.0.13.nupkg.sha512",

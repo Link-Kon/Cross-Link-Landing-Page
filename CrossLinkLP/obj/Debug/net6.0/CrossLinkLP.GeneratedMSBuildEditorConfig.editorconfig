@@ -9,41 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = CrossLinkLP
 build_property.RootNamespace = CrossLinkLP
-build_property.ProjectDir = D:\UPC\Ciclo 9\Link_Project_EF\CrossLinkLP\CrossLinkLP\
+build_property.ProjectDir = D:\UPC\Ciclo 9\Landing\Cross-Link-Landing-Page\CrossLinkLP\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\UPC\Ciclo 9\Link_Project_EF\CrossLinkLP\CrossLinkLP
+build_property.MSBuildProjectDirectory = D:\UPC\Ciclo 9\Landing\Cross-Link-Landing-Page\CrossLinkLP
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/UPC/Ciclo 9/Link_Project_EF/CrossLinkLP/CrossLinkLP/App.razor]
+[D:/UPC/Ciclo 9/Landing/Cross-Link-Landing-Page/CrossLinkLP/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPC/Ciclo 9/Link_Project_EF/CrossLinkLP/CrossLinkLP/Pages/Counter.razor]
+[D:/UPC/Ciclo 9/Landing/Cross-Link-Landing-Page/CrossLinkLP/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPC/Ciclo 9/Link_Project_EF/CrossLinkLP/CrossLinkLP/Pages/FetchData.razor]
+[D:/UPC/Ciclo 9/Landing/Cross-Link-Landing-Page/CrossLinkLP/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPC/Ciclo 9/Link_Project_EF/CrossLinkLP/CrossLinkLP/Pages/Index.razor]
+[D:/UPC/Ciclo 9/Landing/Cross-Link-Landing-Page/CrossLinkLP/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPC/Ciclo 9/Link_Project_EF/CrossLinkLP/CrossLinkLP/Shared/SurveyPrompt.razor]
+[D:/UPC/Ciclo 9/Landing/Cross-Link-Landing-Page/CrossLinkLP/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPC/Ciclo 9/Link_Project_EF/CrossLinkLP/CrossLinkLP/_Imports.razor]
+[D:/UPC/Ciclo 9/Landing/Cross-Link-Landing-Page/CrossLinkLP/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPC/Ciclo 9/Link_Project_EF/CrossLinkLP/CrossLinkLP/Shared/MainLayout.razor]
+[D:/UPC/Ciclo 9/Landing/Cross-Link-Landing-Page/CrossLinkLP/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-lvud0u3jly
 
-[D:/UPC/Ciclo 9/Link_Project_EF/CrossLinkLP/CrossLinkLP/Shared/NavMenu.razor]
+[D:/UPC/Ciclo 9/Landing/Cross-Link-Landing-Page/CrossLinkLP/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-bfc9x2y9ru
